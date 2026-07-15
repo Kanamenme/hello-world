@@ -1,3 +1,8 @@
+---
+layout: page
+title: "software Eng. lecture note"
+permalink: /docs/softwareEng2026
+---
 # ソフトウェア工学 授業概要（第1回〜第6回）
 
 ## 第1回: ガイダンス
