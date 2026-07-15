@@ -36,9 +36,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-exclude:
-  - ../README.md
-  - README.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -59,3 +56,5 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#   - ../README.md
+#   - README.md
