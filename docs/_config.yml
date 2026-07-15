@@ -29,6 +29,8 @@ url: "Kanamenme.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 
+source: docs
+
 # Build settings
 theme: minima
 plugins:
